@@ -1,4 +1,4 @@
-**Creating a Discord Bot Account**
+# Setting Up a Server Bot: Creation and Integration
 
 **Overview**
 

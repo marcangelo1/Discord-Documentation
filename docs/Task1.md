@@ -1,4 +1,4 @@
-Server Setup: Channels and Categories
+# Server Setup: Channels and Categories
 
 **1. Locate the server list:**  In the Discord app, find the server list on the left side of the screen. This is where you'll see all the servers you've joined.
 

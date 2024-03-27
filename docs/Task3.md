@@ -1,4 +1,4 @@
-**Creating/ Joining Discord Activities**
+# Launching and Joining Discord Activities
 
 **\# Overview**
 
