@@ -11,6 +11,10 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+  markdown_extensions:
+    - admonition
+    - pymdownx.details
+    - pymdownx.superfences
 
   language: en
   palette:
