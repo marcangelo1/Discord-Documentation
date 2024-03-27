@@ -50,4 +50,4 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 copyright: |
-  &copy; 2023 <a href=""  target="_blank" rel="noopener">Marc Angelo Arnaldo and Sebastian Taylor</a>
+  &copy; 2024 <a href=""  target="_blank" rel="noopener">Marc Angelo Arnaldo and Sebastian Taylor</a>
