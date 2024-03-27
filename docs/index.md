@@ -1,36 +1,45 @@
 # **Introduction**
 
-Get ready to master the art of crafting your own [Discord](https://discord.com/){: style="color: #0000FF;"} community hub and bringing it to life. This guide will empower you with everything you need to:
+Get ready to master the art of crafting your own [**Discord**](https://discord.com/){: style="color: #5D3FD3;"} community hub and bringing it to life. This guide will empower you with everything you need to:
 
 * **Build Your Server Foundation:** Create a customized Discord server and set up channels for organized conversation and fun.  
 * **Automate Your Server with Bots:** Dive into creating your very own bot, adding it to your server, and understanding how to customize its abilities.  
 * **Unleash the Power of Activities:** Learn how to launch exciting activities within your server for socializing, playing games, and collaborating with friends.  
 
 ## Intended Users  
+This documentation is designed for beginners and is intended for use on laptop or desktop computers.
+
+## Prerequisites  
+To get started with this guide, please ensure you have:  
+
+* Downloaded and installed the [**Discord**](https://discord.com/){: style="color: #5D3FD3;"}  application on your computer.  
+* [**Signed up for a Discord account.**](https://discord.com/register){: style="color: #5D3FD3;"}
+
+## Guide Overview
+The main section of this section are summarized below:
+
+* [Server Setup: Channels and Categories ]()
+* []
+* []
+
+
+## Notes and Warning Messages
 
 !!! Note
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+    Indicates important additional information.
 
 !!! Success
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+    Indicates a successful action or scenario.
 
 !!! Warning
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+    Indicates an information that must be read before proceeding.
 
 !!! Danger
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+    Indicates an action that should be avoided.
 
 
 
