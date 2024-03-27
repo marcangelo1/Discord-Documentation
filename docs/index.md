@@ -16,11 +16,11 @@ To get started with this guide, please ensure you have:
 * [**Signed up for a Discord account.**](https://discord.com/register){: style="color: #5D3FD3;"}
 
 ## Guide Overview
-The main section of this section are summarized below:
+The main sections of the documentation are summarized below:
 
-* [Server Setup: Channels and Categories ]()
-* []
-* []
+* [**Server Setup: Channels and Categories**](){: style="color: #5D3FD3;"}
+* [**Setting Up a Server Bot: Creation and Integration**](){: style="color: #5D3FD3;"}  
+* [**Launching and Joining Discord Activities**](){: style="color: #5D3FD3;"}
 
 
 ## Notes and Warning Messages
