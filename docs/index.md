@@ -18,9 +18,9 @@ To get started with this guide, please ensure you have:
 ## Guide Overview
 The documentation is organized into the following key sections:
 
-* [**Server Setup: Channels and Categories**](){: style="color: #5D3FD3;"}
-* [**Setting Up a Server Bot: Creation and Integration**](){: style="color: #5D3FD3;"}  
-* [**Launching and Joining Discord Activities**](){: style="color: #5D3FD3;"}
+* [**Server Setup: Channels and Categories**](Task1.md){: style="color: #5D3FD3;"}
+* [**Setting Up a Server Bot: Creation and Integration**](Task2.md){: style="color: #5D3FD3;"}  
+* [**Launching and Joining Discord Activities**](Task3.md){: style="color: #5D3FD3;"}
 
 
 ## Notes and Warning Messages
