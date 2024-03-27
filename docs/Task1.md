@@ -1,83 +1,87 @@
-**Creating a Discord Bot Account**
+Server Setup: Channels and Categories
 
-**Overview**
+**1. Locate the server list:**  In the Discord app, find the server list on the left side of the screen. This is where you'll see all the servers you've joined.
 
-This section helps you understand Discord bot accounts and guides you through the creation process.
+**2. Click the plus icon:**  Look for a plus sign (+) icon at the bottom of the server list. This button is used to add new servers.
 
-**What is a Discord Bot Account?**
+**Note:**  Expect a 'Create Your Server' pop-up to confirm your action.
 
-Think of a Discord bot as a helpful automated program on your server. You'll need a dedicated Discord bot account separate from your user account to control and manage these custom bots.
+3. Select the type of server you want to create. Choose 'Create My Own' for a custom server.
 
-**What Can You Do with a Bot Account?**
+**Note:**  A 'Tell Us More About Your Server' pop-up will appear for you to provide details.
 
-- **Manage Your Bot:** Configure its settings, commands, and presence on your server.
-- **Run Pre-Built Bots:** Add and customize many existing bots from online repositories, covering moderation, fun games, and more.
-- **Connect to Self-Coded Bots:** Link the bot account to advanced custom bots you've developed yourself (this does require programming knowledge).
+4. Select who your server is for. You can skip this step by clicking 'Skip this question for now.'
 
-**This Guide Focuses On:**
+5. Give your server a unique name and click the 'Create' button to finalize your setup
 
-- **Creating Your Account:** A step-by-step walkthrough for registering a Discord bot account.
-- **Adding to Your Server:** Instructions on inviting your newly created bot to your Discord server.
+**Recommendation: **
 
-**Please Note:** This guide doesn't cover building or coding the bot functionality. That's a separate, more technical process often involving programming knowledge.
+- Choose a name that reflects the purpose of your server. This helps people find and identify with your community.
+- Pick an image that's visually appealing and relevant to your server's theme. Avoid generic or confusing icons.
 
-**Creating Bot Account**
+**Success!**  You've successfully created your new Discord server. Get ready to customize and welcome your community.
 
-1. Navigate to the Discord Developer Portal website (<https://discord.com/developers/applications>)
-2. Enter your login credentials and then click the login.
+**Server Customization (Adding Channels)**
 
-Note:\*\* If the "Are you human?" prompt appears, click "Confirm." You may also need to check your email to verify your login.
+**1. Find Your Channel List:**  The channel list for your server is on the left side of your Discord screen.
 
-3\. Click the 'New Application' button in your screen's top-right corner.
+**2. Right-click for Options:**  Right-click in an empty channel list area or click the dropdown arrow next to your server's name.
 
-4\. Give your bot a creative and descriptive name, then click the 'Create' button."
+**3. Initiate Category Creation:**  Choose "Create Category" from the menu that appears.
 
-Recommendation: Choose a name that helps users understand what your bot does or represents. This will make it stand out and easy to find on Discord.
+Note: Enable the 'Private Category' option during creation to create a private category and limit access to specific members or roles.
 
-**Note:** Agree to the Developer Terms and Policy by clicking the checkbox (if shown).
+**4. Name Your Category:**  Give your category a descriptive name that indicates its purpose (e.g., "Text Chat," "Voice Channels," "Project Planning").
 
-5\. Select the 'Bot' tab in the left navigation menu.
+Info:
 
-6\. Customize your bot's functionality by adjusting its settings, permissions, and commands.
+- Permissions Control: Customize who can view and interact with your private category by managing permissions in the category's settings.
+- Patience is Key: If your newly created category doesn't appear immediately, please wait a few seconds for the update to process.
 
-**Note:** To allow others to invite your bot, ensure the 'Public Bot' option is checked.
+**Success!**  You've successfully created a new category in your Discord server. Now, you can start adding channels within it!
 
-7\. When finished, click the "Save Changes" Button
+**Creating a text channel in your server**
 
-8\. Locate the token and click the 'Copy' button below it.
+1. **Locate Your Channel List:**  Find the channel list on the left side of your Discord server.
+2. **Open Creation Options:**  Right-click in a space within the channel list or click the dropdown arrow next to your server's name.
 
-**Note:** For security reasons, your token is only visible upon creation. To get a new token, use the 'Regenerate' button.
+Note:
 
-**⚠️ Warning: Protect Your Bot Token!**
+- Private Option: Create a private channel to limit access to specific members or roles. Enable the "Private Channel" option during creation.
+- Manage Permissions: Customize who can interact with your private channel by adjusting its permissions.
 
-- **Never share your token!** It's like your bot's password.
-- **Token Leaked?** Click 'Regenerate' immediately to create a new, secure token.
-- **Update Your Code:** Ensure your bot uses the new token to function correctly.
+**3. Select 'Create Channel':**  Choose this option from the available menu.
 
-✅ Success! You've created a bot account. You can now log in using your token."
+**4. Choose 'Text Channel':**  Select "Text Channel" as the desired channel type.
 
-**How to Add Your Bot to a Discord Server**
+**5. Name and Create:**  Give your text channel a descriptive name and click the "Create Channel" button.
 
-Adding a bot lets its code run on your Discord server. First, you'll invite the bot to your server. Then, you'll grant it specific permissions – these control what the bot can do, such as reading messages, sending messages, or managing roles. Once added, the bot will become active and be able to interact with your server members.
+Info:  **A Moment of Patience:**  If your newly created channel doesn't appear immediately, please allow a few seconds for the update to process.
 
-1. Ensure you're logged in to Discord with the account you used to create your bot.
-2. Navigate to the applications page. Then, under "My Applications", select your desired application.
-3. Click the 'OAuth2' tab in the left-side navigation panel.
-4. Find the 'scopes' section and check the box next to 'bot.'
-5. Within the 'Bot Permissions' section, select the permissions you want your bot to have.
+**Success!**  You've created a new text channel. Start chatting and sharing content!
 
-**Note:** Your changes will be saved automatically.
+**Creating a voice channel in your server**
 
-6\. Copy the URL, paste it into your browser, and go to the page. You'll see a list of servers; choose the one you want and click 'Authorize.
+**1. Locate Your Channel List:**  Find the channel list on the left side of your Discord server.
 
-✅ Success! Welcome aboard! Your bot is now on the server. 🤖 Get ready to see it in action!"
+**2. Open Creation Options:**  Right-click in a space within the channel list or click the dropdown arrow next to your server's name.
+
+**3. Select 'Create Channel':**  Choose this option from the available menu.
+
+**4. Choose 'Text Channel':**  Select "Voice Channel" as the desired channel type.
+
+**5. Name and Create:**  Give your Voice channel a descriptive name and click the "Create Channel" button.
+
+Info:  **A Moment of Patience:**  If your newly created channel doesn't appear immediately, please allow a few seconds for the update to process.
+
+**Success!**  You've created a voice channel. Get ready to chat and collaborate in real-time!
 
 **Conclusion**
 
 By the end of this section, you will have successfully learned the following:
 
-✅ **Understanding Bot Accounts:** You now grasp what Discord bot accounts are and how they offer exciting ways to interact with your community.
+- How to create a new Discord server
+- How to add text and voice channels to your server
+- How to optionally develop categories for the organization
 
-✅ **Bot Creation:** You've successfully navigated the Developer Portal and created your bot account.
-
-✅ **Server Integration:** You've learned how to invite your bot to a server and grant it the necessary permissions for its functions.
+Great job 🤗! You're ready to customize your server further and start building your Discord community.
