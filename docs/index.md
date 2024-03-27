@@ -25,6 +25,10 @@ The documentation is organized into the following key sections:
 
 ## Notes and Warning Messages
 
+!!! Info
+
+    Indicates an action that should be avoided.
+
 !!! Note
 
     Indicates important additional information.
@@ -40,6 +44,8 @@ The documentation is organized into the following key sections:
 !!! Danger
 
     Indicates an action that should be avoided.
+
+
 
 
 
