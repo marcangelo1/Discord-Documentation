@@ -1,19 +1,40 @@
-# Server Setup: Channels and Categories
+# **Server Setup: Channels and Categories**
+
+## Overview
+Discord provides a flexible communication platform, letting users customize their communication spaces. It enables the creation of servers, channels, and categories for organized interaction. This versatility makes Discord a leading choice among digital communication platforms.
+
+<!-- In this guide, we will show you how to create your Discord server and fill it with categories and channels. This will ensure your community enjoys an organized and pleasing communication environment. -->
+
+!!! Warning
+
+    Please ensure that your Discord application is open and that you are logged in into your Discord account before continuing with this guide.
 
 
-**Success!**  You've successfully created a new category in your Discord server. Now, you can start adding channels within it!
+## Creating a server
 
-**Creating a text channel in your server**
+**1.** Click the 'Add a Server' button, represented by a plus sign (+) icon on the left-hand side of the Discord's Home interface.  
 
-1. **Locate Your Channel List:**  Find the channel list on the left side of your Discord server.
-2. **Open Creation Options:**  Right-click in a space within the channel list or click the dropdown arrow next to your server's name.
+**2.** Click your desired server type. For a custom server, choose "Create My Own".
 
-Note:
+**3.** Choose and click who the server is for. To bypass this step, click "Skip this question for now".
 
-- Private Option: Create a private channel to limit access to specific members or roles. Enable the "Private Channel" option during creation.
-- Manage Permissions: Customize who can interact with your private channel by adjusting its permissions.
+**4.** Give your server a name and click the "Create" button.
 
-**3. Select 'Create Channel':**  Choose this option from the available menu.
+??? Tip "Use a Descriptive Name"
+
+    Choose a name that reflects the purpose of your server. This helps people find and identify with your community.
+
+
+
+!!! Warning
+
+    Please ensure that you are currently in your created server before proceeding to creating categories and channels.
+
+
+
+## Creating a category in your server
+
+**1.** Right click on the empty space of your channel list or click the dropdown menu next to your server's name.
 
 **2.** Click the **"Create Category"** option.
 
