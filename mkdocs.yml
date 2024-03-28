@@ -1,13 +1,5 @@
 site_name: Discord Documentation
 
-nav:
-  - Home: index.md
-  - Section:
-    - Page 1: section/Task1.md
-    - Page 2: section/Task2.md
-    - Page 3: section/Task3.md
-    - Page 4: section/Trouble.md
-
 theme:
   name: material
   features:
