@@ -81,4 +81,4 @@ By the end of this section, you will have successfully learned the following:
 ✅ How to create a category in your server  
 ✅ How to create a channel in your server
 
-Great job 🤗! You're ready to customize your server further and start building your Discord community.
+**Great job 🤗! You're ready to customize your server further and start building your Discord community.**

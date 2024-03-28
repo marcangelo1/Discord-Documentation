@@ -91,3 +91,5 @@ By the end of this section, you will have successfully learned the following:
 ✅ You now grasp what Discord bot accounts are and how they offer exciting ways to interact with your community.  
 ✅ You've successfully navigated the Developer Portal and created your bot account.  
 ✅ You've learned how to invite your bot to a server and grant it the necessary permissions for its functions.
+
+**Great job 🤗. Your bot is up and running on Discord!**
