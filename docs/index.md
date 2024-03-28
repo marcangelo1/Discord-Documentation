@@ -1,6 +1,6 @@
 # **Introduction**
 
-Get ready to master the art of crafting your own [**Discord**](https://discord.com/){: style="color: #5D3FD3;"} community hub and bringing it to life. This guide will empower you with everything you need to:
+Get ready to master the art of crafting your own [**Discord**](https://discord.com/){: style="color: #7289DA;"} community hub and bringing it to life. This guide will empower you with everything you need to:
 
 * **Build Your Server Foundation:** Create a customized Discord server and set up channels for organized conversation and fun.  
 * **Automate Your Server with Bots:** Dive into creating your very own bot, adding it to your server, and understanding how to customize its abilities.  
@@ -12,38 +12,34 @@ This documentation is designed for beginners and is intended for use on laptop o
 ## Prerequisites  
 To get started with this guide, please ensure you have:  
 
-* Downloaded and installed the [**Discord**](https://discord.com/){: style="color: #5D3FD3;"}  application on your computer.  
-* [**Signed up for a Discord account.**](https://discord.com/register){: style="color: #5D3FD3;"}
+* Downloaded and installed the [**Discord**](https://discord.com/){: style="color: #7289DA;"}  application on your computer.  
+* [**Signed up for a Discord account.**](https://discord.com/register){: style="color: #7289DA;"}
 
 ## Guide Overview
 The documentation is organized into the following key sections:
 
-* [**Server Setup: Channels and Categories**](Task1.md){: style="color: #5D3FD3;"}
-* [**Setting Up a Server Bot: Creation and Integration**](Task2.md){: style="color: #5D3FD3;"}  
-* [**Launching and Joining Discord Activities**](Task3.md){: style="color: #5D3FD3;"}
+* [**Server Setup: Channels and Categories**](Task1.md){: style="color: #7289DA;"}
+* [**Setting Up a Server Bot: Creation and Integration**](Task2.md){: style="color: #7289DA;"}  
+* [**Launching and Joining Discord Activities**](Task3.md){: style="color: #7289DA;"}
 
 
 ## Notes and Warning Messages
 
 !!! Info
 
-    Indicates an action that should be avoided.
-
-!!! Note
-
-    Indicates important additional information.
+    Indicates additional contents, information, or relevant details.
 
 !!! Success
 
-    Indicates a successful action or scenario.
+    Indicates a successful action or illustrates a correct outcome.
 
 !!! Warning
 
-    Indicates an information that must be read before proceeding.
+    Indicates an important information that should be noted to avoid errors.
 
 !!! Danger
-
-    Indicates an action that should be avoided.
+    
+    Indicates information(s) about action(s) that should be avoided.
 
 
 

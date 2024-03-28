@@ -1,50 +1,85 @@
-# Server Setup: Channels and Categories
+# **Server Setup: Channels and Categories**
+
+## Overview
+Discord provides a flexible communication platform, letting users customize their communication spaces. It enables the creation of servers, channels, and categories for organized interaction. This versatility makes Discord a leading choice among digital communication platforms.
+
+<!-- In this guide, we will show you how to create your Discord server and fill it with categories and channels. This will ensure your community enjoys an organized and pleasing communication environment. -->
+
+!!! Warning
+
+    Please ensure that your Discord application is open and that you are logged in into your Discord account before continuing with this guide.
 
 
-**Success!**  You've successfully created a new category in your Discord server. Now, you can start adding channels within it!
 
-**Creating a text channel in your server**
+## Creating a server
 
-1. **Locate Your Channel List:**  Find the channel list on the left side of your Discord server.
-2. **Open Creation Options:**  Right-click in a space within the channel list or click the dropdown arrow next to your server's name.
+**1.** Click the 'Add a Server' button, represented by a plus sign (+) icon on the left-hand side of the Discord's Home interface.  
 
-Note:
+**2.** Click your desired server type. For a custom server, choose "Create My Own".
 
-- Private Option: Create a private channel to limit access to specific members or roles. Enable the "Private Channel" option during creation.
-- Manage Permissions: Customize who can interact with your private channel by adjusting its permissions.
+**3.** Choose and click who the server is for. To bypass this step, click "Skip this question for now".
 
-**3. Select 'Create Channel':**  Choose this option from the available menu.
+**4.** Give your server a name and click the "Create" button.
 
-**4. Choose 'Text Channel':**  Select "Text Channel" as the desired channel type.
+??? Tip "Use a Descriptive Name"
 
-**5. Name and Create:**  Give your text channel a descriptive name and click the "Create Channel" button.
+    Choose a name that reflects the purpose of your server. This helps people find and identify with your community.
 
-Info:  **A Moment of Patience:**  If your newly created channel doesn't appear immediately, please allow a few seconds for the update to process.
 
-**Success!**  You've created a new text channel. Start chatting and sharing content!
 
-**Creating a voice channel in your server**
+!!! Warning
 
-**1. Locate Your Channel List:**  Find the channel list on the left side of your Discord server.
+    Please ensure that you are currently in your created server before proceeding to creating categories and channels.
 
-**2. Open Creation Options:**  Right-click in a space within the channel list or click the dropdown arrow next to your server's name.
 
-**3. Select 'Create Channel':**  Choose this option from the available menu.
 
-**4. Choose 'Text Channel':**  Select "Voice Channel" as the desired channel type.
+## Creating a category in your server
 
-**5. Name and Create:**  Give your Voice channel a descriptive name and click the "Create Channel" button.
+**1.** Right click on the empty space of your channel list or click the dropdown menu next to your server's name.
 
-Info:  **A Moment of Patience:**  If your newly created channel doesn't appear immediately, please allow a few seconds for the update to process.
+**2.** Click the **"Create Category"** option.
 
-**Success!**  You've created a voice channel. Get ready to chat and collaborate in real-time!
+**3.** Give your category a descriptive name (e.g., "Text Chat", "Voice", "Project Planning.")
 
-**Conclusion**
+??? Info "Private Category"
+
+    If you wish to privatized your category, just click the "Private Category" button.
+
+**4.** Click the **"Create Category"** button to finish creating your category.
+!!! Note "A Moment of Patience"
+    If your newly created category doesn't appear immediately, please allow a few seconds for the update to process.
+
+<!-- **Success!**  You've successfully created a new category in your Discord server. Now, you can start adding channels within it! -->
+
+
+
+## Creating a channel in your server
+
+**1.** Right click on the empty space of your channel list or click the dropdown menu next to your server's name.  
+
+**2.** Click the **"Create Channel"** option.
+
+**3.** Click the type of channel you want to make, either "Text" or "Voice" channel.
+
+??? Info "Private Channel"
+
+    **1.** If you wish to privatized your channel, just click the **"Private Channel"** button.  
+
+    **2.** Once you proceed to create the channel, you can customize who can access the private channel. 
+
+**4.** Give your text channel a descriptive name and click the "Create Channel" button.
+
+!!! Note "A Moment of Patience"
+    If your newly created channel doesn't appear immediately, please allow a few seconds for the update to process.
+
+<!-- **Success!**  You've created a new text channel. Start chatting and sharing content! -->
+
+## Conclusion
 
 By the end of this section, you will have successfully learned the following:
 
-- How to create a new Discord server
-- How to add text and voice channels to your server
-- How to optionally develop categories for the organization
+✅ How to create a new Discord server  
+✅ How to create a category in your server  
+✅ How to create a channel in your server
 
 Great job 🤗! You're ready to customize your server further and start building your Discord community.
