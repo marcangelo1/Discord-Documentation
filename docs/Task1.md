@@ -12,7 +12,10 @@ Discord provides a flexible communication platform, letting users customize thei
 
 ## Creating a server
 
-**1.** Click the 'Add a Server' button, represented by a plus sign (+) icon on the left-hand side of the Discord's Home interface.  
+**1.** Click the 'Add a Server' button, represented by a plus sign (+) icon on the left-hand side of the Discord's Home interface. 
+<figure markdown="span">
+  ![](Assets/Task1 Assets/login.png){ width="700" }
+</figure> 
 
 **2.** Click your desired server type. For a custom server, choose "Create My Own".
 

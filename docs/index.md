@@ -43,5 +43,3 @@ The documentation is organized into the following key sections:
 
 
 
-![](Assets/Task1 Assets/login.png){ loading=lazy }
-
