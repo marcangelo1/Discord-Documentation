@@ -107,7 +107,7 @@ This section helps you understand Discord bot accounts and guides you through th
 **3.** Click the **OAuth2** tab in the left side navigation panel.  
 
 <figure markdown="span">
-  ![](Assets/Task2 Assets/Outh2.png){ width="250" }
+  ![](Assets/Task2 Assets/Oath2.png){ width="250" }
 </figure>
 
 **4.** Find the **scopes** section and check the box next to **bot**.  
