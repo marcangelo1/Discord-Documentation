@@ -1,3 +1,4 @@
+# Troubleshoot
 | Symptoms                                                  | Probable Cause                                            | Action                                                                                                     |
 | --------------------------------------------------------- | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | Unable to create, delete, or edit channels/categories. Channel names or category organization unexpectedly changed. | Missing permissions.                                      | Verify roles have "Manage Channels" and "Manage Roles" permissions. Adjust within category/channel settings. |

@@ -31,7 +31,7 @@ Discord provides a flexible communication platform, letting users customize thei
     Please ensure that you are currently in your created server before proceeding to creating categories and channels.
 
 
-
+    
 ## Creating a category in your server
 
 **1.** Right click on the empty space of your channel list or click the dropdown menu next to your server's name.
