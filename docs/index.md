@@ -33,13 +33,19 @@ The documentation is organized into the following key sections:
 
     Indicates additional contents, information, or relevant details.
 
+!!! Question
+
+    Denotes an explanation.
+
+!!! Note
+    
+    Emphasizes key information.
+
 !!! Warning
 
     Indicates an important information that should be noted to avoid errors.
 
-!!! Danger
-    
-    Indicates information(s) about action(s) that should be avoided.
+
 
 
 
