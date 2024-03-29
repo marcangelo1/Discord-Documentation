@@ -13,11 +13,19 @@ This section will cover the basics of starting and participating in Discord acti
 
 **1.** Click on the server icon, located on the left side of your screen, where you'd like to join an activity.
 
-**2.** Click on a voice channel, the one with a speaker icon. ##Ensure you're on a server or direct message call##.
+<figure markdown="span">
+  ![](Assets/Task3 Assets/Server Icon.png){ width="250" }
+</figure>
+
+**2.** Click on a voice channel, the one with a speaker icon. ##Ensure you're on a server or direct message call.
 
 <!-- **Note:** Before joining an activity, ensure you have permission to access the specific voice channel. -->
 
 **3.** Click the rocket ship icon near the bottom of your screen. It's right next to your Video and Screen Share buttons.
+
+<figure markdown="span">
+  ![](Assets/Task3 Assets/Rocket Icon.png){ width="550" }
+</figure>
 
 ???+ Note "Missing rocket ship icon"
 
@@ -27,6 +35,10 @@ This section will cover the basics of starting and participating in Discord acti
 **4.** Check the list to see if any activities are running. You'll see their names and icons if any are active.
 
 **5.** Move your mouse over the voice channel name where the activity is being played. A **Join Activity** button will appear. Click it!
+
+<figure markdown="span">
+  ![](Assets/Task3 Assets/Join Activity.png){ width="500" }
+</figure>
 
 <!-- **Success:** You've joined an Activity! -->
 
