@@ -46,7 +46,7 @@ This section will cover the basics of starting and participating in Discord acti
 
 **1.** Click on the server icon, located on the left side of your screen, where you'd like to join an activity.
 <figure markdown="span">
-  ![](Assets/Task3 Assets/serverselection.png){ width="650" }
+  ![](Assets/Task3 Assets/Server Icon.png){ width="250" }
 </figure>
 
 **2.** Click on a voice channel, the one with a speaker icon.
