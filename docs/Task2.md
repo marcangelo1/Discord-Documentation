@@ -28,7 +28,7 @@ Discord bots are cool helpers that make your chat server more fun and keep thing
 **2.** Enter your login credentials and then click the login.
 
 <figure markdown="span">
-  ![](Assets/Task1 Assets/login.png){ width="650" }
+  ![](Assets/Task2 Assets/Login.png){ width="700" }
 </figure>
 
 ???+ Note "Are you human?"
@@ -60,7 +60,7 @@ Discord bots are cool helpers that make your chat server more fun and keep thing
 **6.** Customize your bot's functionality by adjusting its settings, permissions, and commands.
 
 <figure markdown="span">
-  ![](Assets/Task2 Assets/Bot Config.png){ width="500" }
+  ![](Assets/Task2 Assets/Bot Config1.png){ width="800" }
 </figure>
 
 ??? Info "Public bot"
@@ -70,13 +70,13 @@ Discord bots are cool helpers that make your chat server more fun and keep thing
 **7.** When finished, click the **"Save Changes"** Button
 
 <figure markdown="span">
-  ![](Assets/Task2 Assets/Bot Token.png){ width="900" }
+  ![](Assets/Task2 Assets/Save Changes.png){ width="800" }
 </figure>
 
 **8.** Locate the token and click the **"Copy"** button below it.
 
 <figure markdown="span">
-  ![](Assets/Task2 Assets/Bot Token1.png){ width="700" }
+  ![](Assets/Task2 Assets/Token Save.png){ width="800" }
 </figure>
 !!! Note "Token visibility"
     For security reasons, your token is only visible upon creation. To get a new token, use the **"Regenerate"** button.
@@ -98,7 +98,7 @@ Discord bots are cool helpers that make your chat server more fun and keep thing
 **2.** Navigate to the applications page. Then, under **My Applications**, select your desired application.  
 
 <figure markdown="span">
-  ![](Assets/Task2 Assets/App page.png){ width="800" }
+  ![](Assets/Task2 Assets/Applications page.png){ width="800" }
 </figure>
 
 **3.** Click the **OAuth2** tab in the left side navigation panel.  
@@ -110,13 +110,13 @@ Discord bots are cool helpers that make your chat server more fun and keep thing
 **4.** Find the **scopes** section and check the box next to **bot**.  
 
 <figure markdown="span">
-  ![](Assets/Task2 Assets/Bot Check.png){ width="700" }
+  ![](Assets/Task2 Assets/Scope.png){ width="800" }
 </figure>
 
 **5.** Within the **Bot Permissions** section, select the permissions you want your bot to have.
 
 <figure markdown="span">
-  ![](Assets/Task2 Assets/Bot Per.png){ width="700" }
+  ![](Assets/Task2 Assets/ZP08n.png){ width="800" }
 </figure>
 
 <!-- **Note:** Your changes will be saved automatically. -->
