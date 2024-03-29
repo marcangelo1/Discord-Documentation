@@ -96,8 +96,13 @@ Discord provides a flexible communication platform, letting users customize thei
 ??? Info "Private Channel"
 
     **1.** If you wish to privatized your channel, just click the **"Private Channel"** button.  
-
+    <figure markdown="span">
+        ![](Assets/Task1 Assets/channelprivate.png){ width="350" }
+    </figure> 
     **2.** Once you proceed to create the channel, you can customize who can access the private channel.
+    <figure markdown="span">
+        ![](Assets/Task1 Assets/roles.png){ width="350" }
+    </figure> 
 
 <figure markdown="span">
   ![](Assets/Task1 Assets/channeltype.png){ width="350" }
