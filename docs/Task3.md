@@ -4,7 +4,7 @@
 
 This section will cover the basics of starting and participating in Discord activities. Get ready to transform your voice channels into hubs of fun! We'll walk you through finding excellent activities, launching them, and inviting your friends to join.
 
-!!! warning "Prerequisites for this guide"
+!!! warning "Prerequisites"
 
     Ensure you are logged in to your Discord account and have a server available to join or start an activity.    Access may be restricted otherwise.
 
@@ -33,15 +33,27 @@ This section will cover the basics of starting and participating in Discord acti
 ## How to Create a Discord Activity
 
 **1.** Click on the server icon, located on the left side of your screen, where you'd like to join an activity.
+<figure markdown="span">
+  ![](Assets/Task3 Assets/serverselection.png){ width="650" }
+</figure>
 
 **2.** Click on a voice channel, the one with a speaker icon.
 
 **3.** Click the rocket ship icon near the bottom of your screen. It's right next to your Video and Screen Share buttons.
+<figure markdown="span">
+  ![](Assets/Task3 Assets/rocketship.png){ width="250" }
+</figure>
 
-**4.** Choose the game or experience you want to launch.
+**4.** Click the game or activity you want to launch.
+<figure markdown="span">
+  ![](Assets/Task3 Assets/activity.png){ width="300" }
+</figure>
 
 ??? Question "How to get people to play with?"
-    - **Option 1:** Right-click on the name of your voice channel and choose "Invite to Activity."
+    - **Option 1:** Right-click on the name of your voice channel and choose "Invite to Join."
+    <figure markdown="span">
+        ![](Assets/Task3 Assets/invite.png){ width="650" }
+    </figure>
     - **Option 2:** Discord will generate a unique link. Click to copy it, then paste that link to a chat to tell your friends.
     - **Option 3:** Anyone on the server who can see your activity can click "Join Activity" if they want to play!
 
