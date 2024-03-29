@@ -37,7 +37,7 @@ Discord bots are cool helpers that make your chat server more fun and keep thing
 **3.** Click the **"New Application"** button in your screen's top-right corner.
 
 <figure markdown="span">
-  ![](Assets/Task2 Assets/New Application Button.png){ width="150" }
+  ![](Assets/Task2 Assets/New App Button.png){ width="800" }
 </figure>
 
 **4.** Give your bot a creative and descriptive name, then click the "**Create button**".
