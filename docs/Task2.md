@@ -30,12 +30,24 @@ This section helps you understand Discord bot accounts and guides you through th
 
 **2.** Enter your login credentials and then click the login.
 
+<figure markdown="span">
+  ![](Assets/Task1 Assets/login.png){ width="650" }
+</figure>
+
 ???+ Note "Are You Human?"
     If the "Are you human?" prompt appears, click "Confirm." You may also need to check your email to verify your login.
 
 **3.** Click the **"New Application"** button in your screen's top-right corner.
 
+<figure markdown="span">
+  ![](Assets/Task2 Assets/New Application Button.png){ width="150" }
+</figure>
+
 **4.** Give your bot a creative and descriptive name, then click the "**Create button**".
+
+<figure markdown="span">
+  ![](Assets/Task2 Assets/Create Name.png){ width="400" }
+</figure>
 
 ??? Tip "Use a Descriptive Name"
     Choose a name that helps users understand what your bot does or represents. This will make it stand out and easy to find on Discord.
@@ -44,7 +56,15 @@ This section helps you understand Discord bot accounts and guides you through th
 
 **5.** Select the **"Bot"** tab in the left navigation menu.
 
+<figure markdown="span">
+  ![](Assets/Task2 Assets/Bot Tab.png){ width="275" }
+</figure>
+
 **6.** Customize your bot's functionality by adjusting its settings, permissions, and commands.
+
+<figure markdown="span">
+  ![](Assets/Task2 Assets/Bot Config.png){ width="500" }
+</figure>
 
 ??? Info "Public Bot"
 
@@ -52,7 +72,15 @@ This section helps you understand Discord bot accounts and guides you through th
 
 **7.** When finished, click the **"Save Changes"** Button
 
+<figure markdown="span">
+  ![](Assets/Task2 Assets/Bot Token.png){ width="900" }
+</figure>
+
 **8.** Locate the token and click the **"Copy"** button below it.
+
+<figure markdown="span">
+  ![](Assets/Task2 Assets/Bot Token1.png){ width="700" }
+</figure>
 !!! Note "Token Visibility"
     For security reasons, your token is only visible upon creation. To get a new token, use the **"Regenerate"** button.
 !!! Warning "Protect Your Bot Token!"
@@ -72,15 +100,39 @@ This section helps you understand Discord bot accounts and guides you through th
 
 **2.** Navigate to the applications page. Then, under **My Applications**, select your desired application.  
 
+<figure markdown="span">
+  ![](Assets/Task2 Assets/App page.png){ width="800" }
+</figure>
+
 **3.** Click the **OAuth2** tab in the left side navigation panel.  
+
+<figure markdown="span">
+  ![](Assets/Task2 Assets/Outh2.png){ width="250" }
+</figure>
 
 **4.** Find the **scopes** section and check the box next to **bot**.  
 
+<figure markdown="span">
+  ![](Assets/Task2 Assets/Bot Check.png){ width="700" }
+</figure>
+
 **5.** Within the **Bot Permissions** section, select the permissions you want your bot to have.
+
+<figure markdown="span">
+  ![](Assets/Task2 Assets/Bot Per.png){ width="700" }
+</figure>
 
 <!-- **Note:** Your changes will be saved automatically. -->
 
 **6.** Copy the URL, paste it into your browser, and go to the page. You'll see a list of servers; choose the one you want and click **Authorize**.
+
+<figure markdown="span">
+  ![](Assets/Task2 Assets/Bot URL.png){ width="800" }
+</figure>
+
+<figure markdown="span">
+  ![](Assets/Task2 Assets/Bot Paste Url.png){ width="300" }
+</figure>
 
 <!-- ✅ Success! Welcome aboard! Your bot is now on the server. 🤖 Get ready to see it in action!" -->
 
