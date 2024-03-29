@@ -4,7 +4,7 @@
 
 This section will cover the basics of starting and participating in Discord activities. Get ready to transform your voice channels into hubs of fun! We'll walk you through finding excellent activities, launching them, and inviting your friends to join.
 
-!!! warning "Prerequisites for This Guide"
+!!! warning "Prerequisites for this guide"
 
     Ensure you are logged in to your Discord account and have a server available to join or start an activity.    Access may be restricted otherwise.
 
@@ -19,7 +19,7 @@ This section will cover the basics of starting and participating in Discord acti
 
 **3.** Click the rocket ship icon near the bottom of your screen. It's right next to your Video and Screen Share buttons.
 
-???+ Note "Missing Rocket Ship Icon"
+???+ Note "Missing rocket ship icon"
 
     - Not all servers support Discord Activities. If you don't see the rocket ship icon in a voice channel, it's likely Activities aren't enabled for that server.
     - Contact a server moderator or admin to check if they're allowed and resolve potential permission issues.
@@ -47,12 +47,12 @@ This section will cover the basics of starting and participating in Discord acti
 
 <!-- **Success:** You've successfully created an Activity! -->
 
-!!! Note "Running Activity"
+!!! Note "Running activity"
     If an Activity is running in a voice channel, you might see these indicators:  
 
       - The channel name might change.
       - A special icon will appear next to the channel name.
-??? Tip "Exploring Activities"
+??? Tip "Exploring activities"
     You don't have to join the same activity as everyone else on a voice channel. Feel free to explore different Activities while staying connected with friends.
 
 **Conclusion**

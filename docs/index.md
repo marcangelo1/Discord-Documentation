@@ -25,13 +25,13 @@ The documentation is organized into the following key sections:
 
 ## Notes and Warning Messages
 
+!!! Tip
+
+    Indicates a helpful advice.
+
 !!! Info
 
     Indicates additional contents, information, or relevant details.
-
-!!! Success
-
-    Indicates a successful action or illustrates a correct outcome.
 
 !!! Warning
 

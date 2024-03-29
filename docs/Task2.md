@@ -1,25 +1,22 @@
 # **Setting Up a Server Bot: Creation and Integration**
 
 ## Overview
+Discord bots are cool helpers that make your chat server more fun and keep things in order. They can tell jokes, run games, or make sure people follow the rules.This section helps you understand Discord bot accounts and guides you through the creation and integration process.
 
-This section helps you understand Discord bot accounts and guides you through the creation process.
-
-??? Question "What is a Discord Bot Account?"
+??? Question "What is a Discord bot account and what can you do with it?"
 
     Think of a Discord bot as a helpful automated program on your server. You'll need a dedicated Discord bot account separate from your user account to control and manage these custom bots.
 
-**What Can You Do with a Bot Account?**
+    - **Manage Your Bot:** Configure its settings, commands, and presence on your server.
+    - **Run Pre-Built Bots:** Add and customize many existing bots from online repositories, covering moderation, fun games, and more.
+    - **Connect to Self-Coded Bots:** Link the bot account to advanced custom bots you've developed yourself (this does require programming knowledge).
 
-- **Manage Your Bot:** Configure its settings, commands, and presence on your server.
-- **Run Pre-Built Bots:** Add and customize many existing bots from online repositories, covering moderation, fun games, and more.
-- **Connect to Self-Coded Bots:** Link the bot account to advanced custom bots you've developed yourself (this does require programming knowledge).
-
-**This Guide Focuses On:**
+<!-- **This Guide Focuses On:**
 
 - A step-by-step walkthrough for registering a Discord bot account.
-- Instructions on inviting your newly created bot to your Discord server.
+- Instructions on inviting your newly created bot to your Discord server. -->
 
-!!! Note "Please Note" 
+!!! Note
     This guide doesn't cover building or coding the bot's functionality. That's a separate, more technical process often involving programming knowledge.
 
 
@@ -34,7 +31,7 @@ This section helps you understand Discord bot accounts and guides you through th
   ![](Assets/Task1 Assets/login.png){ width="650" }
 </figure>
 
-???+ Note "Are You Human?"
+???+ Note "Are you human?"
     If the "Are you human?" prompt appears, click "Confirm." You may also need to check your email to verify your login.
 
 **3.** Click the **"New Application"** button in your screen's top-right corner.
@@ -49,7 +46,7 @@ This section helps you understand Discord bot accounts and guides you through th
   ![](Assets/Task2 Assets/Create Name.png){ width="400" }
 </figure>
 
-??? Tip "Use a Descriptive Name"
+??? Tip "Use a descriptive name"
     Choose a name that helps users understand what your bot does or represents. This will make it stand out and easy to find on Discord.
 ???+ Note
     Agree to the Developer Terms and Policy by clicking the checkbox if prompted to.
@@ -66,7 +63,7 @@ This section helps you understand Discord bot accounts and guides you through th
   ![](Assets/Task2 Assets/Bot Config.png){ width="500" }
 </figure>
 
-??? Info "Public Bot"
+??? Info "Public bot"
 
     To allow others to invite your bot, ensure the **"Public Bot"** option is checked.
 
@@ -81,9 +78,9 @@ This section helps you understand Discord bot accounts and guides you through th
 <figure markdown="span">
   ![](Assets/Task2 Assets/Bot Token1.png){ width="700" }
 </figure>
-!!! Note "Token Visibility"
+!!! Note "Token visibility"
     For security reasons, your token is only visible upon creation. To get a new token, use the **"Regenerate"** button.
-!!! Warning "Protect Your Bot Token!"
+!!! Warning "Protect your bot token!"
     - **Never share your token!** It's like your bot's password.
     - **Token Leaked?** Click **"Regenerate"**  immediately to create a new, secure token.
     - **Update Your Code:** Ensure your bot uses the new token to function correctly.
