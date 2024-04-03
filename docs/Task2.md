@@ -74,7 +74,7 @@ Discord bots are cool helpers that make your chat server more fun and keep thing
 **8.** Click the **"Reset Token"** button and then click the **"Copy"** button to copy your token.
 
 <figure markdown="span">
-  ![](Assets/Task2 Assets/TokenCopyButton.png){ width="8000" }
+  ![](Assets/Task2 Assets/CopyButton.png){ width="8800" }
 </figure>
 !!! Info "Token visibility"
     For security reasons, your token is only visible upon hitting the **"Reset Token"** button.
