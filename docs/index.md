@@ -23,7 +23,7 @@ The documentation is organized into the following key sections:
 * [**Launching and Joining Discord Activities**](Task3.md){: style="color: #7289DA;"}
 
 ## Typographical Conventions
-Button names are highlighted in bold wrapped in double quotes, indicating elements you should click within the software.
+Button names are highlighted in bold and wrapped in double quotes, indicating elements you should click within the software.
 
 
 ## Notes and Warning Messages
