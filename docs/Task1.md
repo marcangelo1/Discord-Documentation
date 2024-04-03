@@ -15,17 +15,17 @@ Discord provides a flexible communication platform, letting users customize thei
   ![](Assets/Task1 Assets/plusbutton.png){ width="450" }
 </figure> 
 
-**2.** Click your desired server type. For a custom server, choose "Create My Own".
+**2.** Click your desired server type. For a custom server, choose **"Create My Own"**.
 <figure markdown="span">
   ![](Assets/Task1 Assets/createserver.png){ width="350" }
 </figure>
 
-**3.** Choose and click who the server is for. To bypass this step, click "Skip this question for now".
+**3.** Choose and click who the server is for. To bypass this step, click **"Skip this question for now"**.
 <figure markdown="span">
   ![](Assets/Task1 Assets/communitytype.png){ width="350" }
 </figure>
 
-**4.** Give your server a name and click the "Create" button.
+**4.** Give your server a name and click the "**Create**" button.
 
 ??? Tip "Use a descriptive name"
 
@@ -58,7 +58,7 @@ Discord provides a flexible communication platform, letting users customize thei
 
 ??? Info "Private category"
 
-    If you wish to privatized your category, just click the "Private Category" button.
+    If you wish to privatized your category, just click the **"Private Category"** button.
     <figure markdown="span">
         ![](Assets/Task1 Assets/categoryprivate.png){ width="350" }
     </figure>
@@ -106,7 +106,7 @@ Discord provides a flexible communication platform, letting users customize thei
   ![](Assets/Task1 Assets/channeltype.png){ width="350" }
 </figure> 
 
-**4.** Give your text channel a descriptive name and click the "Create Channel" button.
+**4.** Give your text channel a descriptive name and click the **"Create Channel"** button.
 
 !!! Note "A moment of patience"
     If your newly created channel doesn't appear immediately, please allow a few seconds for the update to process.

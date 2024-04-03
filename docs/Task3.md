@@ -17,11 +17,11 @@ This section will cover the basics of starting and participating in Discord acti
   ![](Assets/Task3 Assets/Server Icon.png){ width="250" }
 </figure>
 
-**2.** Click on a voice channel, the one with a speaker icon. ##Ensure you're on a server or direct message call.
+**2.** Click on a voice channel, the one with a speaker icon.
 
 <!-- **Note:** Before joining an activity, ensure you have permission to access the specific voice channel. -->
 
-**3.** Click the rocket ship icon near the bottom of your screen. It's right next to your Video and Screen Share buttons.
+**3.** Click the rocket ship icon near the bottom of your screen.
 
 <figure markdown="span">
   ![](Assets/Task3 Assets/Rocket Icon.png){ width="550" }
@@ -49,9 +49,9 @@ This section will cover the basics of starting and participating in Discord acti
   ![](Assets/Task3 Assets/Server Icon.png){ width="250" }
 </figure>
 
-**2.** Click on a voice channel, the one with a speaker icon.
+**2.** Click on a voice channel.
 
-**3.** Click the rocket ship icon near the bottom of your screen. It's right next to your Video and Screen Share buttons.
+**3.** Click the rocket ship icon near the bottom of your screen.
 <figure markdown="span">
   ![](Assets/Task3 Assets/rocketship.png){ width="250" }
 </figure>
@@ -62,20 +62,15 @@ This section will cover the basics of starting and participating in Discord acti
 </figure>
 
 ??? Question "How to get people to play with?"
-    - **Option 1:** Right-click on the name of your voice channel and choose "Invite to Join."
+    - **Option 1:** Right-click on the name of your voice channel and choose **Invite to Join**.
     <figure markdown="span">
         ![](Assets/Task3 Assets/invite.png){ width="650" }
     </figure>
     - **Option 2:** Discord will generate a unique link. Click to copy it, then paste that link to a chat to tell your friends.
-    - **Option 3:** Anyone on the server who can see your activity can click "Join Activity" if they want to play!
+    - **Option 3:** Anyone on the server who can see your activity can click **Join Activity** if they want to play!
 
 <!-- **Success:** You've successfully created an Activity! -->
 
-!!! Note "Running activity"
-    If an Activity is running in a voice channel, you might see these indicators:  
-
-      - The channel name might change.
-      - A special icon will appear next to the channel name.
 ??? Tip "Exploring activities"
     You don't have to join the same activity as everyone else on a voice channel. Feel free to explore different Activities while staying connected with friends.
 
@@ -86,4 +81,4 @@ By the end of this section, you will have successfully learned the following:
 ✅ How to find and join awesome Discord Activities.  
 ✅ How to launch your activity and invite friends.
 
-**Great job 🤗. You're ready to add some serious fun to your voice chats!**
+**Great job 🤗! You're ready to add some serious fun to your voice chats!**

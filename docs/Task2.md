@@ -11,10 +11,6 @@ Discord bots are cool helpers that make your chat server more fun and keep thing
     - **Run Pre-Built Bots:** Add and customize many existing bots from online repositories, covering moderation, fun games, and more.
     - **Connect to Self-Coded Bots:** Link the bot account to advanced custom bots you've developed yourself (this does require programming knowledge).
 
-<!-- **This Guide Focuses On:**
-
-- A step-by-step walkthrough for registering a Discord bot account.
-- Instructions on inviting your newly created bot to your Discord server. -->
 
 !!! Note
     This guide doesn't cover building or coding the bot's functionality. That's a separate, more technical process often involving programming knowledge.
@@ -32,7 +28,7 @@ Discord bots are cool helpers that make your chat server more fun and keep thing
 </figure>
 
 ???+ Note "Are you human?"
-    If the "Are you human?" prompt appears, click "Confirm." You may also need to check your email to verify your login.
+    If the **Are you human?** prompt appears, click "Confirm". You may also need to check your email to verify your login.
 
 **3.** Click the **"New Application"** button in your screen's top-right corner.
 
@@ -40,7 +36,7 @@ Discord bots are cool helpers that make your chat server more fun and keep thing
   ![](Assets/Task2 Assets/NewApplication.png){ width="800" }
 </figure>
 
-**4.** Give your bot a creative and descriptive name, then click the "**Create button**".
+**4.** Give your bot a creative and descriptive name, then click the **"Create"** button.
 
 <figure markdown="span">
   ![](Assets/Task2 Assets/Create Name.png){ width="400" }
@@ -51,7 +47,7 @@ Discord bots are cool helpers that make your chat server more fun and keep thing
 ???+ Note
     Agree to the Developer Terms and Policy by clicking the checkbox if prompted to.
 
-**5.** Select the **"Bot"** tab in the left navigation menu.
+**5.** Select the **Bot** tab in the left navigation menu.
 
 <figure markdown="span">
   ![](Assets/Task2 Assets/Bot Tab.png){ width="275" }
@@ -63,7 +59,7 @@ Discord bots are cool helpers that make your chat server more fun and keep thing
 
 ??? Info "Public bot"
 
-    To allow others to invite your bot, ensure the **"Public Bot"** option is checked.
+    To allow others to invite your bot, ensure the **Public Bot** option is checked.
 
 **7.** When finished, click the **"Save Changes"** Button
 
@@ -80,7 +76,7 @@ Discord bots are cool helpers that make your chat server more fun and keep thing
     For security reasons, your token is only visible upon hitting the **"Reset Token"** button.
 !!! Warning "Protect your bot token!"
     - **Never share your token!** It's like your bot's password.
-    - **Token Leaked?** Click **"Regenerate"**  immediately to create a new, secure token.
+    - **Token Leaked?** Click **"Reset Token"**  immediately to create a new, secure token.
     - **Update Your Code:** Ensure your bot uses the new token to function correctly.
 
 <!-- ✅ Success! You've created a bot account. You can now log in using your token." -->
@@ -105,7 +101,7 @@ Discord bots are cool helpers that make your chat server more fun and keep thing
   ![](Assets/Task2 Assets/Oath2.png){ width="250" }
 </figure>
 
-**4.** Find the **scopes** section and check the box next to **bot**.  
+**4.** Find the **Scopes** section and check the box next to **bot**.  
 
 <figure markdown="span">
   ![](Assets/Task2 Assets/Scope.png){ width="800" }
@@ -119,7 +115,7 @@ Discord bots are cool helpers that make your chat server more fun and keep thing
 
 <!-- **Note:** Your changes will be saved automatically. -->
 
-**6.** Copy the URL, paste it into your browser, and go to the page. You'll see a list of servers; choose the one you want and click **Authorize**.
+**6.** Copy the URL, paste it into your browser, and go to the page. You'll see a list of servers; choose the one you want and click **"Authorize"**.
 
 
 <figure markdown="span">
@@ -136,4 +132,4 @@ By the end of this section, you will have successfully learned the following:
 ✅ You've successfully navigated the Developer Portal and created your bot account.  
 ✅ You've learned how to invite your bot to a server and grant it the necessary permissions for its functions.
 
-**Great job 🤗. Your bot is up and running on Discord!**
+**Great job 🤗! Your bot is up and running on Discord!**
