@@ -37,7 +37,7 @@ Discord bots are cool helpers that make your chat server more fun and keep thing
 **3.** Click the **"New Application"** button in your screen's top-right corner.
 
 <figure markdown="span">
-  ![](Assets/Task2 Assets/New App Button.png){ width="800" }
+  ![](Assets/Task2 Assets/NewApplication.png){ width="800" }
 </figure>
 
 **4.** Give your bot a creative and descriptive name, then click the "**Create button**".
@@ -59,9 +59,7 @@ Discord bots are cool helpers that make your chat server more fun and keep thing
 
 **6.** Customize your bot's functionality by adjusting its settings, permissions, and commands.
 
-<figure markdown="span">
-  ![](Assets/Task2 Assets/Bot Config1.png){ width="800" }
-</figure>
+
 
 ??? Info "Public bot"
 
@@ -70,13 +68,13 @@ Discord bots are cool helpers that make your chat server more fun and keep thing
 **7.** When finished, click the **"Save Changes"** Button
 
 <figure markdown="span">
-  ![](Assets/Task2 Assets/Save Changes.png){ width="800" }
+  ![](Assets/Task2 Assets/BotFunction.png){ width=7000" }
 </figure>
 
 **8.** Locate the token and click the **"Copy"** button below it.
 
 <figure markdown="span">
-  ![](Assets/Task2 Assets/Token Save.png){ width="800" }
+  ![](Assets/Task2 Assets/TokenCopyButton.png){ width="8000" }
 </figure>
 !!! Note "Token visibility"
     For security reasons, your token is only visible upon creation. To get a new token, use the **"Regenerate"** button.
@@ -123,9 +121,6 @@ Discord bots are cool helpers that make your chat server more fun and keep thing
 
 **6.** Copy the URL, paste it into your browser, and go to the page. You'll see a list of servers; choose the one you want and click **Authorize**.
 
-<figure markdown="span">
-  ![](Assets/Task2 Assets/Bot URL.png){ width="800" }
-</figure>
 
 <figure markdown="span">
   ![](Assets/Task2 Assets/Bot Paste Url.png){ width="300" }
