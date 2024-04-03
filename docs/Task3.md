@@ -42,7 +42,7 @@ This section will cover the basics of starting and participating in Discord acti
 
 <!-- **Success:** You've joined an Activity! -->
 
-## How to Create a Discord Activity
+## How to Start a Discord Activity
 
 **1.** Click on the server icon, located on the left side of your screen, where you'd like to join an activity.
 <figure markdown="span">

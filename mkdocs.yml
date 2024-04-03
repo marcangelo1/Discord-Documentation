@@ -1,5 +1,13 @@
 site_name: Discord Documentation
 
+nav:
+  - Home: "index.md"
+  - Servers: "Task1.md"
+  - Server Bot: "Task2.md"
+  - Discord Activities: "Task3.md"
+  - Troubleshooting: "Trouble.md"
+  - Glossary: "Glossary.md"
+
 theme:
   name: material
   features:
