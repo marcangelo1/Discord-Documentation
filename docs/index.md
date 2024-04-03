@@ -22,6 +22,12 @@ The documentation is organized into the following key sections:
 * [**Setting Up a Server Bot: Creation and Integration**](Task2.md){: style="color: #7289DA;"}  
 * [**Launching and Joining Discord Activities**](Task3.md){: style="color: #7289DA;"}
 
+## Typographical Conventions
+Button names are highlighted in bold wrapped in double quotes, indicating elements you should click within the software.
+[2:41 PM]
+Elements you should click within the software
+
+
 ## Notes and Warning Messages
 
 !!! Tip
