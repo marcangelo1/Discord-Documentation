@@ -21,14 +21,14 @@ Discord bots are cool helpers that make your chat server more fun and keep thing
 
 **1.** Navigate to the [**Discord Developer Portal website**](https://discord.com/developers/applications){: style="color: #7289DA;"}   
 
-**2.** Enter your login credentials and then click the login.
+**2.** Enter your login credentials and then click the **"Log In"** button.
 
 <figure markdown="span">
   ![](Assets/Task2 Assets/Login.png){ width="700" }
 </figure>
 
 ???+ Note "Are you human?"
-    If the **Are you human?** prompt appears, click "Confirm". You may also need to check your email to verify your login.
+    If the **Are you human?** prompt appears, click **"Confirm"**. You may also need to check your email to verify your login.
 
 **3.** Click the **"New Application"** button in your screen's top-right corner.
 

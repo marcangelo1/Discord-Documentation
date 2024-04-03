@@ -12,7 +12,7 @@ Discord provides a flexible communication platform, letting users customize thei
 
 **1.** Click the **"Add a Server"** button, represented by a plus sign **(+)** icon on the left-hand side of the Discord's Home interface. 
 <figure markdown="span">
-  ![](Assets/Task1 Assets/plusbutton.png){ width="450" }
+  ![](Assets/Task1 Assets/plusbutton.png){ width="300" }
 </figure> 
 
 **2.** Click your desired server type. For a custom server, choose **"Create My Own"**.
@@ -35,6 +35,7 @@ Discord provides a flexible communication platform, letting users customize thei
   ![](Assets/Task1 Assets/naming.png){ width="350" }
 </figure>
 
+Congratulations! 🎉 You just created your own server. Now you can begin populating it with categories and channels.
 
 !!! Warning
 
@@ -73,8 +74,8 @@ Discord provides a flexible communication platform, letting users customize thei
 <figure markdown="span">
   ![](Assets/Task1 Assets/categorybutton.png){ width="350" }
 </figure>
-<!-- **Success!**  You've successfully created a new category in your Discord server. Now, you can start adding channels within it! -->
 
+Congratulations! 🎉 You just created a category. Now you can populate it with channels.
 
 
 ## Creating a channel in your server
@@ -113,7 +114,8 @@ Discord provides a flexible communication platform, letting users customize thei
 <figure markdown="span">
   ![](Assets/Task1 Assets/channelbutton.png){ width="350" }
 </figure> 
-<!-- **Success!**  You've created a new text channel. Start chatting and sharing content! -->
+
+Congratulations! 🎉 You just created a channel. 
 
 ## Conclusion
 
