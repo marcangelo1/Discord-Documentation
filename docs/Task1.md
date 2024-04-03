@@ -1,7 +1,7 @@
-# **Server Setup: Channels and Categories**
+# **Setting Up a Discord Server**
 
 ## Overview
-Discord provides a flexible communication platform, letting users customize their communication spaces. It enables the creation of servers, channels, and categories for organized interaction. This versatility makes Discord a leading choice among digital communication platforms.
+Discord provides a flexible communication platform, letting users customize their communication spaces. It enables the creation of servers, channels, and categories for organized interaction. This versatility makes Discord a leading choice among digital communication platforms. #Explain channels and categories
 
 <!-- In this guide, we will show you how to create your Discord server and fill it with categories and channels. This will ensure your community enjoys an organized and pleasing communication environment. -->
 

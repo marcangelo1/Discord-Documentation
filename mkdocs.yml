@@ -2,9 +2,9 @@ site_name: Discord Documentation
 
 nav:
   - Home: "index.md"
-  - Servers: "Task1.md"
-  - Server Bot: "Task2.md"
-  - Discord Activities: "Task3.md"
+  - Setting Up a Discord Server: "Task1.md"
+  - Setting Up a Server Bot - Creation and Integration: "Task2.md"
+  - Launching and Joining Discord Activities: "Task3.md"
   - Troubleshooting: "Trouble.md"
   - Glossary: "Glossary.md"
 
