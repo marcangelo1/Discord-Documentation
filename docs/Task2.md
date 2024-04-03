@@ -96,7 +96,7 @@ Discord bots are cool helpers that make your chat server more fun and keep thing
 **2.** Navigate to the applications page. Then, under **My Applications**, select your desired application.  
 
 <figure markdown="span">
-  ![](Assets/Task2 Assets/Applications page.png){ width="800" }
+  ![](Assets/Task2 Assets/NewApplicationsPage.png){ width="800" }
 </figure>
 
 **3.** Click the **OAuth2** tab in the left side navigation panel.  
