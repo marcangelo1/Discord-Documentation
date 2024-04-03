@@ -1,7 +1,7 @@
 # **Setting Up a Discord Server**
 
 ## Overview
-Discord provides a flexible communication platform, letting users customize their communication spaces. It enables the creation of servers, channels, and categories for organized interaction. This versatility makes Discord a leading choice among digital communication platforms. #Explain channels and categories
+Discord provides a flexible communication platform, letting users customize their communication spaces. It enables the creation of servers, channels, and categories for organized interaction. Channels are spaces for messages, calls, or video chats. Categories organize these channels into groups.
 
 !!! Warning
 
@@ -10,7 +10,7 @@ Discord provides a flexible communication platform, letting users customize thei
 
 ## Creating a server
 
-**1.** Click the "Add a Server" button, represented by a plus sign **(+)** icon on the left-hand side of the Discord's Home interface. 
+**1.** Click the **"Add a Server"** button, represented by a plus sign **(+)** icon on the left-hand side of the Discord's Home interface. 
 <figure markdown="span">
   ![](Assets/Task1 Assets/plusbutton.png){ width="450" }
 </figure> 
@@ -20,7 +20,7 @@ Discord provides a flexible communication platform, letting users customize thei
   ![](Assets/Task1 Assets/createserver.png){ width="350" }
 </figure>
 
-**3.** Choose and click who the server is for. To bypass this step, click **"Skip this question for now"**.
+**3.** Choose and click who the server is for.
 <figure markdown="span">
   ![](Assets/Task1 Assets/communitytype.png){ width="350" }
 </figure>
