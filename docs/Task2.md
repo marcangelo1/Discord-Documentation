@@ -71,13 +71,13 @@ Discord bots are cool helpers that make your chat server more fun and keep thing
   ![](Assets/Task2 Assets/BotFunction.png){ width=7000" }
 </figure>
 
-**8.** Locate the token and click the **"Copy"** button below it.
+**8.** Click the **"Reset Token"** button and then click the **"Copy"** button to copy your token.
 
 <figure markdown="span">
   ![](Assets/Task2 Assets/TokenCopyButton.png){ width="8000" }
 </figure>
-!!! Note "Token visibility"
-    For security reasons, your token is only visible upon creation. To get a new token, use the **"Regenerate"** button.
+!!! Info "Token visibility"
+    For security reasons, your token is only visible upon hitting the **"Reset Token"** button.
 !!! Warning "Protect your bot token!"
     - **Never share your token!** It's like your bot's password.
     - **Token Leaked?** Click **"Regenerate"**  immediately to create a new, secure token.
