@@ -79,7 +79,7 @@ Discord bots are cool helpers that make your chat server more fun and keep thing
     - **Token Leaked?** Click **"Reset Token"**  immediately to create a new, secure token.
     - **Update Your Code:** Ensure your bot uses the new token to function correctly.
 
-<!-- ✅ Success! You've created a bot account. You can now log in using your token." -->
+Congratulations! 🎉  You've created a bot account. You can now log in using your token." 
 
 
 
@@ -122,7 +122,7 @@ Discord bots are cool helpers that make your chat server more fun and keep thing
   ![](Assets/Task2 Assets/Bot Paste Url.png){ width="300" }
 </figure>
 
-<!-- ✅ Success! Welcome aboard! Your bot is now on the server. 🤖 Get ready to see it in action!" -->
+Congratulations! 🎉  Your bot is now on the server. 🤖 Get ready to see it in action!
 
 ## Conclusion
 
@@ -133,3 +133,4 @@ By the end of this section, you will have successfully learned the following:
 ✅ You've learned how to invite your bot to a server and grant it the necessary permissions for its functions.
 
 **Great job 🤗! Your bot is up and running on Discord!**
+

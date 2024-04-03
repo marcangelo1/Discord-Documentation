@@ -38,7 +38,7 @@ This section will cover the basics of starting and participating in Discord acti
   ![](Assets/Task3 Assets/Join Activity.png){ width="500" }
 </figure>
 
-<!-- **Success:** You've joined an Activity! -->
+Congratulations! 🎉  You've joined an Activity! 
 
 ## How to Start a Discord Activity
 
@@ -67,7 +67,7 @@ This section will cover the basics of starting and participating in Discord acti
     - **Option 2:** Discord will generate a unique link. Click to copy it, then paste that link to a chat to tell your friends.
     - **Option 3:** Anyone on the server who can see your activity can click **Join Activity** if they want to play!
 
-<!-- **Success:** You've successfully created an Activity! -->
+Congratulations! 🎉  You've successfully created an Activity!
 
 ??? Tip "Exploring activities"
     You don't have to join the same activity as everyone else on a voice channel. Feel free to explore different Activities while staying connected with friends.
