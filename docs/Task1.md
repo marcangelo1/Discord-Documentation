@@ -3,8 +3,6 @@
 ## Overview
 Discord provides a flexible communication platform, letting users customize their communication spaces. It enables the creation of servers, channels, and categories for organized interaction. This versatility makes Discord a leading choice among digital communication platforms. #Explain channels and categories
 
-<!-- In this guide, we will show you how to create your Discord server and fill it with categories and channels. This will ensure your community enjoys an organized and pleasing communication environment. -->
-
 !!! Warning
 
     Please ensure that your Discord application is open and that you are logged in into your Discord account before continuing with this guide.
@@ -12,7 +10,7 @@ Discord provides a flexible communication platform, letting users customize thei
 
 ## Creating a server
 
-**1.** Click the 'Add a Server' button, represented by a plus sign (+) icon on the left-hand side of the Discord's Home interface. 
+**1.** Click the "Add a Server" button, represented by a plus sign (+) icon on the left-hand side of the Discord's Home interface. 
 <figure markdown="span">
   ![](Assets/Task1 Assets/serverbutton.png){ width="650" }
 </figure> 
@@ -56,7 +54,7 @@ Discord provides a flexible communication platform, letting users customize thei
   ![](Assets/Task1 Assets/createcategory.png){ width="650" }
 </figure>
 
-**3.** Give your category a descriptive name (e.g., "Text Chat", "Voice", "Project Planning.")
+**3.** Give your category a descriptive name.
 
 ??? Info "Private category"
 
@@ -91,7 +89,7 @@ Discord provides a flexible communication platform, letting users customize thei
   ![](Assets/Task1 Assets/createchannel.png){ width="650" }
 </figure>
 
-**3.** Click the type of channel you want to make, either "Text" or "Voice" channel.
+**3.** Click the type of channel you want to make, either **Text** or **Voice** channel.
 
 ??? Info "Private channel"
 
