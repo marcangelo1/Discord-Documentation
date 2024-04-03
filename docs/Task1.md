@@ -46,12 +46,12 @@ Discord provides a flexible communication platform, letting users customize thei
 
 **1.** Right click on the empty space of your channel list or click the dropdown menu next to your server's name.
 <figure markdown="span">
-  ![](Assets/Task1 Assets/twooptions.png){ width="650" }
+  ![](Assets/Task1 Assets/Server.png){ width="300" }
 </figure>
 
 **2.** Click the **"Create Category"** option.
 <figure markdown="span">
-  ![](Assets/Task1 Assets/createcategory.png){ width="650" }
+  ![](Assets/Task1 Assets/Category.png){ width="300" }
 </figure>
 
 **3.** Give your category a descriptive name.
@@ -81,12 +81,12 @@ Discord provides a flexible communication platform, letting users customize thei
 
 **1.** Right click on the empty space of your channel list or click the dropdown menu next to your server's name.  
 <figure markdown="span">
-  ![](Assets/Task1 Assets/twooptions.png){ width="650" }
+  ![](Assets/Task1 Assets/Server.png){ width="300" }
 </figure>
 
 **2.** Click the **"Create Channel"** option.
 <figure markdown="span">
-  ![](Assets/Task1 Assets/createchannel.png){ width="650" }
+  ![](Assets/Task1 Assets/Channel.png){ width="300" }
 </figure>
 
 **3.** Click the type of channel you want to make, either **Text** or **Voice** channel.
