@@ -33,7 +33,7 @@ Discord bots are cool helpers that make your chat server more fun and keep thing
 **3.** Click the **"New Application"** button in your screen's top-right corner.
 
 <figure markdown="span">
-  ![](Assets/Task2 Assets/NewApplication.png){ width="800" }
+  ![](Assets/Task2 Assets/NewApplication.png){ width="900" }
 </figure>
 
 **4.** Give your bot a creative and descriptive name, then click the **"Create"** button.
@@ -50,36 +50,52 @@ Discord bots are cool helpers that make your chat server more fun and keep thing
 **5.** Select the **Bot** tab in the left navigation menu.
 
 <figure markdown="span">
-  ![](Assets/Task2 Assets/Bot Tab.png){ width="275" }
+  ![](Assets/Task2 Assets/Bot Tab.png){ width="400" }
 </figure>
 
-**6.** Customize your bot's functionality by adjusting its settings, permissions, and commands.
+**6.** Scroll down and you will see the settings to customize your bot's functionality. Customize your bot the way you want. 
+<figure markdown="span">
+  ![](Assets/Task2 Assets/Customize1.png){ width=900" }
+</figure>
+<figure markdown="span">
+  ![](Assets/Task2 Assets/Customize2.png){ width=900" }
+</figure>
 
+<!-- ??? Info "Public bot"
 
+    To allow others to invite your bot, ensure the **Public Bot** option is checked. -->
 
-??? Info "Public bot"
-
-    To allow others to invite your bot, ensure the **Public Bot** option is checked.
-
-**7.** When finished, click the **"Save Changes"** Button
+**7.** When finished customizing, click the **"Save Changes"** Button
 
 <figure markdown="span">
-  ![](Assets/Task2 Assets/BotFunction.png){ width=800" }
+  ![](Assets/Task2 Assets/SaveChanges.png){ width=900" }
 </figure>
 
-**8.** Click the **"Reset Token"** button and then click the **"Copy"** button to copy your token.
-
+**8.** Scroll back up until you see the **"Reset Token"** button. Click the **"Reset Token"** button.
 <figure markdown="span">
-  ![](Assets/Task2 Assets/CopyButton.png){ width="800" }
+  ![](Assets/Task2 Assets/ResetButton.png){ width=900" }
 </figure>
-!!! Info "Token visibility"
-    For security reasons, your token is only visible upon hitting the **"Reset Token"** button.
+
+**9.** A warning from discord will pop up. Read it and then click the **"Yes, do it!"** button.
+<figure markdown="span">
+  ![](Assets/Task2 Assets/yesdoit.png){ width=400" }
+</figure>
+
+**10.** A Multi-Factor Authorization window will pop up asking for your password. Enter the password of the account you used to login and then click the **"Submit""** button.
+<figure markdown="span">
+  ![](Assets/Task2 Assets/Authorization.png){ width=400" }
+</figure>
+
+**11.** The **"Copy"** button should now appear. Click the **"Copy"** button to copy your token.
+<figure markdown="span">
+  ![](Assets/Task2 Assets/CopyButton.png){ width=900" }
+</figure>
 !!! Warning "Protect your bot token!"
     - **Never share your token!** It's like your bot's password.
     - **Token Leaked?** Click **"Reset Token"**  immediately to create a new, secure token.
     - **Update Your Code:** Ensure your bot uses the new token to function correctly.
 
-Congratulations! 🎉 You've created a bot account. You can now log in using your token." 
+Congratulations! 🎉 You've created a bot account. Now you can connect your scripts to your discord bot server.
 
 
 
@@ -92,34 +108,37 @@ Congratulations! 🎉 You've created a bot account. You can now log in using you
 **2.** Navigate to the applications page. Then, under **My Applications**, select your desired application.  
 
 <figure markdown="span">
-  ![](Assets/Task2 Assets/NewApplicationsPage.png){ width="800" }
+  ![](Assets/Task2 Assets/NewApplicationsPage.png){ width="900" }
 </figure>
 
 **3.** Click the **OAuth2** tab in the left side navigation panel.  
 
 <figure markdown="span">
-  ![](Assets/Task2 Assets/Oath2.png){ width="250" }
+  ![](Assets/Task2 Assets/Oath2.png){ width="400" }
 </figure>
 
 **4.** Find the **Scopes** section and check the box next to **bot**.  
 
 <figure markdown="span">
-  ![](Assets/Task2 Assets/Scope.png){ width="800" }
+  ![](Assets/Task2 Assets/Scope.png){ width="900" }
 </figure>
 
-**5.** Within the **Bot Permissions** section, select the permissions you want your bot to have.
+**5.** Within the **Bot Permissions** section, select the permissions you want your bot to have. Once done, click the **"Copy"** button to copy a URL.
 
 <figure markdown="span">
-  ![](Assets/Task2 Assets/ZP08n.png){ width="800" }
+  ![](Assets/Task2 Assets/UrlCopy.png){ width="900" }
 </figure>
 
 <!-- **Note:** Your changes will be saved automatically. -->
 
-**6.** Copy the URL, paste it into your browser, and go to the page. You'll see a list of servers; choose the one you want and click **"Authorize"**.
-
-
+**6.** Copy the URL, paste it into your browser, and go to the page. Select the server you want to integrate your bot under **ADD TO SERVER** section. Click the **"Continue"** button once done.
 <figure markdown="span">
-  ![](Assets/Task2 Assets/Bot Paste Url.png){ width="300" }
+  ![](Assets/Task2 Assets/addToServer.png){ width="400" }
+</figure>
+
+**7.** Click the **"Authorize"** button to finalize the integration of your bot to your chosen server.
+<figure markdown="span">
+  ![](Assets/Task2 Assets/authorizedBot.png){ width="400" }
 </figure>
 
 Congratulations! 🎉 Your bot is now on the server. 🤖 Get ready to see it in action!

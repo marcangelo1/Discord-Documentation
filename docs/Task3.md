@@ -14,15 +14,14 @@ This section will cover the basics of starting and participating in Discord acti
 **1.** Click on the server icon, located on the left side of your screen, where you'd like to join an activity.
 
 <figure markdown="span">
-  ![](Assets/Task3 Assets/Server Icon.png){ width="250" }
+  ![](Assets/Task3 Assets/Server Icon.png){ width="400" }
 </figure>
 
-**2.** Click on a voice channel.
+**2.** Click on a voice channel where someone launched an activity.
 
-**3.** Click the rocket ship icon near the bottom of your screen.
-
+**3.** Click the **"Join Activity"** button in the activity window.
 <figure markdown="span">
-  ![](Assets/Task3 Assets/rocketship.png){ width="450" }
+  ![](Assets/Task2 Assets/activityWindow.png){ width="900" }
 </figure>
 
 ???+ Note "Missing rocket ship icon"
@@ -30,49 +29,38 @@ This section will cover the basics of starting and participating in Discord acti
     - Not all servers support Discord Activities. If you don't see the rocket ship icon in a voice channel, it's likely Activities aren't enabled for that server.
     - Contact a server moderator or admin to check if they're allowed and resolve potential permission issues.
 
-**4.** Check the list to see if any activities are running. You'll see their names and icons if any are active.
-
-**5.** Move your mouse over the voice channel name where the activity is being played. A **"Join Activity"** button will appear. Click it!
-
-<figure markdown="span">
-  ![](Assets/Task3 Assets/Join Activity.png){ width="500" }
-</figure>
-
 Congratulations! 🎉 You've joined an Activity! 
 
 ## How to Start a Discord Activity
 
 **1.** Click on the server icon, located on the left side of your screen, where you'd like to join an activity.
 <figure markdown="span">
-  ![](Assets/Task3 Assets/Server Icon.png){ width="250" }
+  ![](Assets/Task3 Assets/Server Icon.png){ width="400" }
 </figure>
 
 **2.** Click on a voice channel.
 
 **3.** Click the rocket ship icon near the bottom of your screen.
 <figure markdown="span">
-  ![](Assets/Task3 Assets/rocketship.png){ width="450" }
+  ![](Assets/Task3 Assets/rocketship.png){ width="400" }
 </figure>
 
 **4.** Click the game or activity you want to launch.
 <figure markdown="span">
-  ![](Assets/Task3 Assets/activity.png){ width="300" }
+  ![](Assets/Task3 Assets/activity.png){ width="400" }
 </figure>
 
 ??? Question "How to get people to play with?"
     - **Option 1:** Right-click on the name of your voice channel and choose **Invite to Join**.
     <figure markdown="span">
-        ![](Assets/Task3 Assets/invite.png){ width="650" }
+        ![](Assets/Task3 Assets/invite.png){ width="900" }
     </figure>
     - **Option 2:** Discord will generate a unique link. Click to copy it, then paste that link to a chat to tell your friends.
     - **Option 3:** Anyone on the server who can see your activity can click **Join Activity** if they want to play!
 
 Congratulations! 🎉 You've successfully started an Activity!
 
-??? Tip "Exploring activities"
-    You don't have to join the same activity as everyone else on a voice channel. Feel free to explore different Activities while staying connected with friends.
-
-**Conclusion**
+## Conclusion
 
 By the end of this section, you will have successfully learned the following:
 
