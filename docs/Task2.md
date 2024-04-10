@@ -24,7 +24,7 @@ Discord bots are cool helpers that make your chat server more fun and keep thing
 **2.** Enter your login credentials and then click the **"Log In"** button.
 
 <figure markdown="span">
-  ![](Assets/Task2 Assets/Login.png){ width="700" }
+  ![](Assets/Task2 Assets/Login.png){ width="800" }
 </figure>
 
 ???+ Note "Are you human?"
@@ -64,13 +64,13 @@ Discord bots are cool helpers that make your chat server more fun and keep thing
 **7.** When finished, click the **"Save Changes"** Button
 
 <figure markdown="span">
-  ![](Assets/Task2 Assets/BotFunction.png){ width=650" }
+  ![](Assets/Task2 Assets/BotFunction.png){ width=800" }
 </figure>
 
 **8.** Click the **"Reset Token"** button and then click the **"Copy"** button to copy your token.
 
 <figure markdown="span">
-  ![](Assets/Task2 Assets/CopyButton.png){ width="650" }
+  ![](Assets/Task2 Assets/CopyButton.png){ width="800" }
 </figure>
 !!! Info "Token visibility"
     For security reasons, your token is only visible upon hitting the **"Reset Token"** button.
