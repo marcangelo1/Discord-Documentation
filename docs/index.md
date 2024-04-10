@@ -4,7 +4,7 @@ Get ready to master the art of crafting your own [**Discord**](https://discord.c
 
 * **Build Your Server Foundation:** Create a customized Discord server and set up channels for organized conversation and fun.  
 * **Automate Your Server with Bots:** Dive into creating your very own bot, adding it to your server, and understanding how to customize its abilities.  
-* **Unleash the Power of Activities:** Learn how to launch exciting activities within your server for socializing, playing games, and collaborating with friends.  
+* **Unleash the Power of Activities:** Learn how to launch and join exciting activities within your server for socializing, playing games, and collaborating with friends.  
 
 ## Intended Users  
 This documentation is designed for beginners and is intended for use on laptop or desktop computers.
